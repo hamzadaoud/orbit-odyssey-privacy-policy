@@ -1,1 +1,46 @@
-# orbit-odyssey-privacy-policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Orbit Odyssey</title>
+</head>
+<body>
+    <h1>Privacy Policy for Orbit Odyssey</h1>
+    <p>Last updated: 11/04/2024</p>
+    <h2>Introduction</h2>
+    <p>Welcome to Orbit Odyssey. This privacy policy explains how we collect, use, and disclose information when you use our mobile application.</p>
+    <h2>Information Collection and Use</h2>
+    <h3>Non-Personal Data</h3>
+    <p>We do not collect any personally identifiable information from users. However, we may collect non-personal information about the use of our Service, which includes:</p>
+    <ul>
+        <li>Device type and model</li>
+        <li>Operating system version</li>
+        <li>IP address</li>
+        <li>Usage data, such as the time and date of your visit, the pages you visit, the time spent on those pages, and other diagnostic data</li>
+    </ul>
+    <h2>Use of Collected Data</h2>
+    <p>The collected data is used to:</p>
+    <ul>
+        <li>Provide and maintain our Service</li>
+        <li>Monitor and analyze usage and trends to improve the user experience</li>
+        <li>Detect, prevent, and address technical issues</li>
+    </ul>
+    <h2>Advertising</h2>
+    <p>Our application uses third-party advertising services, which may collect and use information to show relevant ads. Currently, we use Unity Ads, and we may switch to Google Ads or other ad services in the future. These services may use cookies, JavaScript, web beacons, and other technologies to collect data and measure the effectiveness of their ads.</p>
+    <p>Please refer to the privacy policies of these ad services for more details:</p>
+    <ul>
+        <li><a href="https://unity3d.com/legal/privacy-policy" target="_blank">Unity Ads Privacy Policy</a></li>
+        <li><a href="https://policies.google.com/technologies/ads" target="_blank">Google Ads Privacy Policy</a></li>
+    </ul>
+    <h2>Children's Privacy</h2>
+    <p>Our Service is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us. We will take steps to delete such information from our servers.</p>
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately upon posting.</p>
+    <h2>Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy, please contact us at:</p>
+    <ul>
+        <li>Email: <a href="mailto:amzadaoud@gmail.com">amzadaoud@gmail.com</a></li>
+    </ul>
+</body>
+</html>
