@@ -11,6 +11,8 @@
     <div class="container">
         <h1 class="mt-5">Privacy Policy for Orbit Odyssey</h1>
         <p>Last updated: 02/07/2024</p> <!-- Updated date -->
+        <h2>Introduction</h2>
+        <p>Welcome to Orbit Odyssey. This privacy policy explains how we collect, use, and disclose information when you use our mobile application.</p>
         <h2>Data Safety Section - Orbit Odyssey</h2>
         <h3>Data Collection and Usage</h3>
         <p>Orbit Odyssey ("the App") respects user privacy and is committed to transparent data practices. This section outlines how the App collects, uses, and handles data, including any third-party services utilized.</p>
@@ -42,7 +44,7 @@
         </ul>
         <h3>Children's Privacy</h3>
         <p>Orbit Odyssey is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe that your child has provided personal information, please contact us for deletion.</p>
-        <h3>Updates to Privacy Policy</h3>
+        <h3>Changes to This Privacy Policy</h3>
         <p>We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately upon posting.</p>
         <h3>Contact Us</h3>
         <p>If you have any questions or concerns about this Data safety section or our privacy practices, please contact us at:</p>
